@@ -16,7 +16,6 @@
 - ✨ **Fun Fact:** I am passionate about solving real-world problems with technology! Recently, I contributed to building a career guidance portal in just **4 days**, empowering students to explore career opportunities. Excited to create impactful solutions! 💡✨  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=malasri&label=Profile%20views&color=0e75b6&style=flat" alt="malasri" /> </p>
-
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
   <!-- Connect With Me Section -->
   <div>
