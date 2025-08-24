@@ -10,7 +10,7 @@
 <h4 align="center">Innovative Problem Solver | MERN Stack Developer | Aspiring Software Engineer</h4>
 
 - 🌟 Currently honing my expertise in **Advanced JavaScript, React, Backend Development with Node.js & Express.js, MySQL & Database Optimization, and Data Structures & Algorithms (DSA).**  
-- 👨‍💻 Explore my projects: [**Portfolio**](https://malasri-portfolio.netlify.app/)  
+- 👨‍💻 Explore my projects: [**Portfolio**](https://malasris-portfolio.vercel.app/)  
 - 📧 Reach out to me: **malasri.saravanan32@gmail.com**  
 - 📄 View my resume: [**Resume Link**](https://malasri-portfolio.netlify.app/static/media/resume.pdf)  
 - ✨ **Fun Fact:** I am passionate about solving real-world problems with technology! Recently, I contributed to building a career guidance portal in just **4 days**, empowering students to explore career opportunities. Excited to create impactful solutions! 💡✨  
